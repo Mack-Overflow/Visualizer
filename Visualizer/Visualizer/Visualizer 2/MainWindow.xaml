@@ -1,0 +1,26 @@
+﻿<Window x:Class="Visualizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Visualizer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="golfball.jpg"/>
+        </Grid.Background>
+
+        <Label Content="Devices:" HorizontalAlignment="Left" Height="26" Margin="41,26,0,0" VerticalAlignment="Top" Width="63"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="95,30,0,0" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem>X Swing</ComboBoxItem>
+            <ComboBoxItem>Trumini</ComboBoxItem>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Height="292" Margin="41,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" OpacityMask="#FFE2D8D8" Background="#FFF3F3F3" Opacity="0.8"><Run Text="JSON information"/><LineBreak/><Run Text="---------"/><LineBreak/><Run Text="-----------------"/><LineBreak/><Run Text="-----"/><LineBreak/><Run Text="---"/><LineBreak/><Run Text="----------------"/><LineBreak/><Run Text="------------------"/><LineBreak/><Run Text="------------"/><LineBreak/><Run Text="----"/></TextBlock>
+        <Label Content="Trusim" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,57,0,0" FontWeight="Bold"/>
+        <Label Content="Device" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="229,57,0,0" Width="51" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="231,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="292" Width="165" Background="#FFF3F3F3" FontSize="14" FontFamily="Tw Cen MT" Opacity="0.8"><Run Text="Log"/><LineBreak/><Run Text="-----------------------"/><LineBreak/><Run Text="---------"/><LineBreak/><Run Text="--------------------------"/><LineBreak/><Run Text="------------"/><LineBreak/><Run Text="----------"/><LineBreak/><Run Text="------------"/><LineBreak/><Run Text="-----------------"/><LineBreak/><Run Text="----------------------"/><LineBreak/><Run Text="-----------------"/><LineBreak/><Run Text="-"/></TextBlock>
+
+
+    </Grid>
+</Window>

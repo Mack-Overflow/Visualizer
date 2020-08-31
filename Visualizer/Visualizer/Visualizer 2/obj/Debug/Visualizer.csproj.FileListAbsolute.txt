@@ -1,0 +1,15 @@
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\bin\Debug\Visualizer.exe.config
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\bin\Debug\Visualizer.exe
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\bin\Debug\Visualizer.pdb
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.csprojAssemblyReference.cache
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\MainWindow.g.cs
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\App.g.cs
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer_MarkupCompile.cache
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer_MarkupCompile.lref
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\MainWindow.baml
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.g.resources
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.cache
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.CoreCompileInputs.cache
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.exe
+D:\trugolf\head\TruSimIntegrations\Visualizer\Visualizer\Visualizer\obj\Debug\Visualizer.pdb
